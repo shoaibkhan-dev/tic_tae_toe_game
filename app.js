@@ -59,3 +59,9 @@ function resetGame() {
   statusText.textContent = `Player ${currentPlayer}'s turn`;
   board.forEach(cell => cell.textContent = "");
 }
+
+try {
+    
+} catch (error) {
+    
+}
