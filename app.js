@@ -61,7 +61,7 @@ function resetGame() {
 }
 
 try {
-    
+    console.log()
 } catch (error) {
-    
+    console.log(error)
 }
